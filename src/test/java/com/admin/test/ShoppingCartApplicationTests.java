@@ -1,4 +1,4 @@
-package com.reljicd;
+package com.admin.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
